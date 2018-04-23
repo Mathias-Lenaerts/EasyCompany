@@ -1,0 +1,2 @@
+# EasyCompany
+GitHub Pages
